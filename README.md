@@ -9,6 +9,6 @@ The applied performance code includes the function for nozzle regression.
 Both codes will return specific data in the terminal (such as burn time, max thrust, etc.) for each propellant.
 
 # Libraries used
-The ideal performance code uses the matplotlib and numpy libraries.
-The applied performance code uses the same libraries as the ideal performance code, along with the pygasflow library for isentropic flow
+The ideal performance code uses the ```matplotlib``` and ```numpy``` libraries.
+The applied performance code uses the same libraries as the ideal performance code, along with the ```pygasflow``` library for isentropic flow
 
